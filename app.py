@@ -1,5 +1,5 @@
 import easyocr as ocr  # OCR
-import streamlit as st  # Web App
+import streamlit as st  # Web App using stramlit
 from PIL import Image  # Image Processing
 import numpy as np  # Image Processing
 
