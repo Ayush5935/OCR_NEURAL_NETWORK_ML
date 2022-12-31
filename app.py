@@ -31,7 +31,7 @@ if image is not None:
 
     with st.spinner("🤖 AI is at Work! "):
 
-        result = reader.readtext(sort(np.array(input_image)))
+        result = reader.readtext(np.array(input_image))
 
         result_text = []  # empty list for results
 
