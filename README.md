@@ -28,6 +28,5 @@ Streamlit Cloud lets you deploy your apps in just one click, and most apps will 
 
 Used publicly available data: There are many publicly available datasets that you can use to train an OCR model, such as the COCO-Text dataset of natural images, the SVT dataset of scanned documents, or the OCR dataset from the French National Library. These datasets may be more specialized or targeted towards specific OCR tasks, and they can be a good resource for training models for these tasks.
 
-Scrape data from the web: You can use web scraping tools to collect images of text from websites or other online sources
-
+Kaggle website 
 https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset
