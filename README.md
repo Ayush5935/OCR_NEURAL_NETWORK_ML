@@ -1,7 +1,7 @@
 # OCR_NEURAL_NETWORK
 Trained a simple Optical Character Recognizer(OCR) model to identify the text from an image using Neural Network
 
-# To train an Optical Character Recognition (OCR) model to identify text from an image, you will need to follow these steps:
+# To train an Optical Character Recognition (OCR) model to identify text from an image, we have to follow these steps:
 
 1. Collect a dataset of images that contain text. You can use the sample images you have provided as well as additional images that you scrape from the internet. Make sure to vary the type, size, and font of the text in the images to create a diverse and representative dataset.
 
