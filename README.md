@@ -24,7 +24,7 @@ Streamlit Cloud lets you deploy your apps in just one click, and most apps will 
 
 
 
-## Data collection / Gath : 
+## Data collection : 
 
 Used publicly available data: There are many publicly available datasets that i have used to train an OCR model, such as the COCO-Text dataset of natural images, the SVT dataset of scanned documents, craft_mlt_25k.pth, custom_example.pth, custom_example.yaml, english_g2.pth, model.pkl, model.pth or the OCR dataset from kaggle. These datasets may be more specialized or targeted towards specific OCR tasks, and they can be a good resource for training models for these tasks.
 
@@ -34,7 +34,12 @@ https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset
 
 
 
+
+
+
 ## WebApp Output Images: 
+
+WebApp link - https://ayush5935-ocr-neural-network-ml-app-u9il2u.streamlit.app/
 
 ![output 1](https://user-images.githubusercontent.com/64814485/210159976-548833f9-fff6-4eb3-83d9-de87fc3dc80a.png)
 
