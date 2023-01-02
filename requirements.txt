@@ -57,7 +57,7 @@ rich
 scikit-image
 scikit-learn
 scipy
-stramlit
+streamlit
 semver
 shapely
 six
