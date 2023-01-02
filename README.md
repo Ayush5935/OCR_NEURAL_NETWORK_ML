@@ -46,5 +46,6 @@ WebApp link - https://ayush5935-ocr-neural-network-ml-app-u9il2u.streamlit.app/
 ![output12](https://user-images.githubusercontent.com/64814485/210160131-cf0da21c-0947-45e6-89fb-103097996590.png)![output12 1](https://user-images.githubusercontent.com/64814485/210160133-7c3a719f-765b-4377-be73-7756c78278ee.png)
 
 
+![output3](https://user-images.githubusercontent.com/64814485/210193427-626a9f93-1726-44c2-a03a-b584a1003964.png)
 
 
