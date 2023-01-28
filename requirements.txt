@@ -1,4 +1,4 @@
-﻿albumentations
+albumentations
 alembic
 altair
 attrs
